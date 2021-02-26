@@ -1,0 +1,4 @@
+{
+  "eslint.workingDirectories": ["./minesweeper"],
+  "eslint.validate": ["javascript", "html"]
+}
